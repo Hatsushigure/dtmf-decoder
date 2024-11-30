@@ -1,4 +1,4 @@
-function key = identify_dtmf(frequencies)
+function key = identifyDtmf(frequencies)
     dtmfMatrix = {
         [697, 1209], '1';
         [697, 1336], '2';
